@@ -1,6 +1,12 @@
 # front-end
 Prueba Front End
 
+## La segunda prueba fue realizado con react js
+Pasos para abrir el proyecto: 
+### instalar libreria react js
+### NPM i (comando)
+### NPM START
+
 # Prueba 1
 vista web
 ![image](https://user-images.githubusercontent.com/44610224/201274498-1c2042c9-0aaa-45e6-ade0-074fcb3a700f.png)
