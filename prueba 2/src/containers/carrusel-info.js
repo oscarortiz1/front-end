@@ -148,7 +148,7 @@ const CarruselInfoStyled = styled.div`
     }
   }
   .map {
-    width: 90%;
+    width: 100%;
     margin: 1rem auto;
   }
   .contact {
@@ -181,6 +181,10 @@ const CarruselInfoStyled = styled.div`
       .right {
         margin-left: 2rem;
       }
+    }
+    .map {
+      width: 90%;
+      margin: 1rem auto;
     }
     .web {
       display: block;
