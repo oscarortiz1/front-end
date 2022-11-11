@@ -5,7 +5,7 @@ Prueba Front End
 Pasos para abrir el proyecto: 
 ### instalar libreria react js
 ### NPM i (comando)
-### NPM START
+### NPM START (comando)
 
 # Prueba 1
 vista web
