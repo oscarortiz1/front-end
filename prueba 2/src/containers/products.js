@@ -6,50 +6,82 @@ const Products = () => {
     <ProductsStyled>
       <section>
         <h2>También pueden interesarte</h2>
-        <div class='grid-section'>
-          <div class='container'>
-            <img class='img-product' src={images.rectangle2} alt='product' />
+        <div className='grid-section'>
+          <div className='container'>
+            <img
+              className='img-product'
+              src={images.rectangle2}
+              alt='product'
+            />
             <h3>Ático Dúplex de Obra Nueva</h3>
             <p>Marianao, Sant Boi de Llobregat</p>
-            <div class='flex-section'>
-              <div class='flex-icon'>
+            <div className='flex-section'>
+              <div className='flex-icon'>
                 <div>
-                  <img class='icon' src={images.webMaterial11} alt='expand' />
+                  <img
+                    className='icon'
+                    src={images.webMaterial11}
+                    alt='expand'
+                  />
                   <p>102m^</p>
                 </div>
                 <div>
-                  <img class='icon' src={images.webMaterial10} alt='sleep' />
+                  <img
+                    className='icon'
+                    src={images.webMaterial10}
+                    alt='sleep'
+                  />
                   <p>3</p>
                 </div>
                 <div>
-                  <img class='icon' src={images.webMaterial09} alt='toilet' />
+                  <img
+                    className='icon'
+                    src={images.webMaterial09}
+                    alt='toilet'
+                  />
                   <p>2</p>
                 </div>
               </div>
-              <p class='price'>330.000€</p>
+              <p className='price'>330.000€</p>
               <button>Más info</button>
             </div>
           </div>
-          <div class='container'>
-            <img class='img-product' src={images.rectangle2} alt='product' />
+          <div className='container'>
+            <img
+              className='img-product'
+              src={images.rectangle2}
+              alt='product'
+            />
             <h3>Ático Dúplex de Obra Nueva</h3>
             <p>Marianao, Sant Boi de Llobregat</p>
-            <div class='flex-section'>
-              <div class='flex-icon'>
+            <div className='flex-section'>
+              <div className='flex-icon'>
                 <div>
-                  <img class='icon' src={images.webMaterial11} alt='expand' />
+                  <img
+                    className='icon'
+                    src={images.webMaterial11}
+                    alt='expand'
+                  />
                   <p>102m^</p>
                 </div>
                 <div>
-                  <img class='icon' src={images.webMaterial10} alt='sleep' />
+                  <img
+                    className='icon'
+                    src={images.webMaterial10}
+                    alt='sleep'
+                  />
                   <p>3</p>
                 </div>
                 <div>
-                  <img class='icon' src={images.webMaterial09} alt='toilet' />
+                  <img
+                    className='icon'
+                    src={images.webMaterial09}
+                    alt='toilet'
+                  />
                   <p>2</p>
                 </div>
               </div>
-              <p class='price'>330.000€</p>
+              <p className='price'>330.000€</p>
               <button>Más info</button>
             </div>
           </div>

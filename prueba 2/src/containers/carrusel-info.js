@@ -58,25 +58,29 @@ const CarruselInfo = () => {
           </div>
         </div>
         <div className='more_info'>
-          <p>
-            <strong>Características</strong>
+          <div>
+            <p>
+              <strong>Características</strong>
+            </p>
             <p>
               Ático102 m2 (construidos) <br /> 3 Habitaciones
               <br /> Segunda mano100 m2 (útiles) <br />
               Reformado
               <br /> 2 Baños
             </p>
-          </p>
-          <p className='right'>
-            <strong>Extras</strong>
-            <p>
+          </div>
+          <div>
+            <p className='right'>
+              <strong>Extras</strong>
+            </p>
+            <p className='right'>
               Terraza <br /> Balcón
               <br /> Ascensor <br />
               Calefacción
               <br />
               Aire acondicionado
             </p>
-          </p>
+          </div>
         </div>
         <img className='map' src={images.screenshot1} alt=''></img>
         <div className='contact'>
